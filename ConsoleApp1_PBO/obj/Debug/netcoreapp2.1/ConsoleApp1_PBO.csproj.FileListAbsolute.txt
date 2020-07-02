@@ -1,0 +1,11 @@
+C:\Me!\Program\WindowsFormsApp1\ConsoleApp1_PBO\bin\Debug\netcoreapp2.1\ConsoleApp1_PBO.deps.json
+C:\Me!\Program\WindowsFormsApp1\ConsoleApp1_PBO\bin\Debug\netcoreapp2.1\ConsoleApp1_PBO.runtimeconfig.json
+C:\Me!\Program\WindowsFormsApp1\ConsoleApp1_PBO\bin\Debug\netcoreapp2.1\ConsoleApp1_PBO.runtimeconfig.dev.json
+C:\Me!\Program\WindowsFormsApp1\ConsoleApp1_PBO\bin\Debug\netcoreapp2.1\ConsoleApp1_PBO.dll
+C:\Me!\Program\WindowsFormsApp1\ConsoleApp1_PBO\obj\Debug\netcoreapp2.1\ConsoleApp1_PBO.csprojAssemblyReference.cache
+C:\Me!\Program\WindowsFormsApp1\ConsoleApp1_PBO\obj\Debug\netcoreapp2.1\ConsoleApp1_PBO.csproj.CoreCompileInputs.cache
+C:\Me!\Program\WindowsFormsApp1\ConsoleApp1_PBO\obj\Debug\netcoreapp2.1\ConsoleApp1_PBO.AssemblyInfoInputs.cache
+C:\Me!\Program\WindowsFormsApp1\ConsoleApp1_PBO\obj\Debug\netcoreapp2.1\ConsoleApp1_PBO.AssemblyInfo.cs
+C:\Me!\Program\WindowsFormsApp1\ConsoleApp1_PBO\bin\Debug\netcoreapp2.1\ConsoleApp1_PBO.pdb
+C:\Me!\Program\WindowsFormsApp1\ConsoleApp1_PBO\obj\Debug\netcoreapp2.1\ConsoleApp1_PBO.dll
+C:\Me!\Program\WindowsFormsApp1\ConsoleApp1_PBO\obj\Debug\netcoreapp2.1\ConsoleApp1_PBO.pdb
